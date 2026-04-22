@@ -1,6 +1,6 @@
 # Device Config
 
-This program is designed to streamline your system by disabling unnecessary devices and removing leftover driver remnants. By reducing system and driver overhead, it minimizes background interrupts and can help stabilize latency spikes in certain setups. The result is a cleaner, leaner system environment with fewer potential driver conflicts — especially suited for users aiming to optimize their system for gaming performance.
+This program is designed to streamline your system by disabling unnecessary devices and removing leftover driver remnants. By reducing system and driver overhead, it minimizes background interrupts and can help stabilize latency spikes in certain setups. The result is a cleaner, leaner system environment with fewer potential driver conflicts  especially suited for users aiming to optimize their system for gaming performance.60+ devices will be deactivated
 
 **Before running!**
 All PCIe and USB ports that have no active connection can be disabled by the tool, and can be easily re-enabled at any time through Device Manager if needed.
